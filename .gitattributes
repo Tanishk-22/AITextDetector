@@ -1,0 +1,2 @@
+human-ai-model/*.safetensors filter=lfs diff=lfs merge=lfs -text
+human-ai-model/*.bin filter=lfs diff=lfs merge=lfs -text
